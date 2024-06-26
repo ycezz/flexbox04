@@ -4,7 +4,7 @@
 
 ![Design preview for the Testimonials grid section coding challenge](flexbox-challenge-4.pdf)
 
-[Live preview: https://ycezz.github.io/testimonial-grid-section/ ]
+[Live preview: https://ycezz.github.io/flexbox04/ ]
 
 Build with:
 
@@ -12,7 +12,5 @@ Build with:
 - Custom CSS
 - Variables CSS
 - Flexbox
-- Grid
-- Media queries
 
 **Have fun building!** 🚀
